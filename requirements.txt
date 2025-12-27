@@ -1,0 +1,2 @@
+# No dependencies! Pure Node.js chaos.
+# (Just like the APIs we're mocking)
